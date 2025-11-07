@@ -64,11 +64,8 @@ If you're fixing a bug or adding a feature, consider opening an issue first so w
 
 ## 🌟 Acknowledgements
 
-- Inspired by the open-source community and projects like [brittanychiang.com](https://brittanychiang.com) and [sumanthsamala.com](https://sumanthsamala.com)  
 - Thanks to [shadcn/ui](https://ui.shadcn.com) and [Acernity UI](https://acernity-ui.com)  
-- Special thanks to everyone who shares knowledge and inspiration online 🙌
 
----
 
 ## 📜 License
 
