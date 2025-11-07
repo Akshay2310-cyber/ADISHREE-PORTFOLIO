@@ -19,7 +19,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Tomiwa Jinadu's Portfolio",
+  title: "Adishree's Portfolio",
   icons: {
     icon: "/favicon.ico",
   },

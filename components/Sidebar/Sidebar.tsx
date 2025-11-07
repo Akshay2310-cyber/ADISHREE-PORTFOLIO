@@ -63,7 +63,7 @@ const Sidebar = () => {
           href="/"
           className="text-2xl font-cookie font-bold mb-10 pl-3 hover:opacity-80 transition-opacity"
         >
-          Tomiwa Jinadu
+          Adishree
         </Link>
 
         <nav className="flex flex-col gap-6">
@@ -84,7 +84,7 @@ const Sidebar = () => {
             <ThemeToggle />
             <a
               className="hover-icon"
-              href="https://www.linkedin.com/in/oluwatomiwa-jinadu/"
+              href="https://www.linkedin.com/in/adishreekarthick/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn Profile"
@@ -93,7 +93,7 @@ const Sidebar = () => {
             </a>
             <a
               className="hover-icon"
-              href="https://github.com/Tomiwajin"
+              href="https://github.com/Adishree10"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub Profile"
@@ -139,7 +139,7 @@ const Sidebar = () => {
           className="text-2xl font-cookie font-bold mb-10 pl-3 mt-30"
           onClick={() => setIsMenuOpen(false)}
         >
-          Tomiwa Jinadu
+          Adishree
         </Link>
 
         {navItems.map(({ name, href, icon: Icon }) => (
@@ -158,7 +158,7 @@ const Sidebar = () => {
           <ThemeToggle />
           <a
             className="hover-icon"
-            href="https://www.linkedin.com/in/oluwatomiwa-jinadu/"
+            href="https://www.linkedin.com/in/adishreekarthick/"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="LinkedIn Profile"
@@ -167,7 +167,7 @@ const Sidebar = () => {
           </a>
           <a
             className="hover-icon"
-            href="https://github.com/Tomiwajin"
+            href="https://github.com/Adishree10"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub Profile"

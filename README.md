@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Tomiwa Jinadu's Portfolio 🚀  
+# 🌟 Adishree's Portfolio 🚀  
 **Live Site:** [tomiwajinadu-portfolio-v2.vercel.app](https://tomiwajinadu-portfolio-v2.vercel.app)
 
 A second iteration of my personal site — built with [Next.js](https://nextjs.org), styled using [Tailwind CSS](https://tailwindcss.com), and animated with [Framer Motion](https://www.framer.com/motion/).  

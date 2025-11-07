@@ -7,28 +7,18 @@ const Page = () => {
       <h1 className="text-2xl md:text-4xl font-bold">About Me</h1>
       <div className="flex flex-col max-w-2xl text-lg leading-relaxed">
         <p>
-          I&#39;m a developer who thrives at the intersection of design and
-          engineering — crafting accessible, pixel-perfect user interfaces that
-          are as thoughtful as they are performant. I enjoy building experiences
-          that feel intuitive, look clean, and are engineered with precision.
+          I&#39;m a Final-year B.Sc. Data Science student at {""}
+          <LinkPreview url="https://rvu.edu.in/" className="font-bold">
+            {" "}
+            RV University
+          </LinkPreview>, I’ve been actively exploring the real-world impact of AI across applications—from building Flutter-based mobile solutions to developing intelligent systems during my internships. I’ve worked as a Machine Learning Intern at EY, where I contributed to building Agentic AI frameworks for Natural Language to SQL workflows, and I’m currently an AI Application Developer Intern at ATmega Software Technologies LLP.
         </p>
         <div className="mt-4">
-          I recently earned a B.S. in Computing from the{" "}
-          <LinkPreview url="https://www.westga.edu" className="font-bold">
-            {" "}
-            University of West Georgia.
-          </LinkPreview>
-          , where I contributed to projects ranging from a Flutter-based elderly
-          assistance app to a systems-level client-server model in Rust. My
-          experience spans both frontend and backend technologies, with growing
-          interests in mobile development, cloud infrastructure, and
-          cybersecurity.
+          Previously, I interned at Shaale as a Flutter Developer, where I built mobile features using Dart and Flutter.
+My technical interests span AI Agents, RAG Pipelines, LangChain, Machine Learning, NLP, Data Engineering, and Generative AI. I enjoy creating data-driven solutions that are practical, scalable, and intelligent.
         </div>
         <p className="mt-4">
-          Along the way, I&#39;ve collaborated on team projects, developed
-          real-world tools, and organized student events that blend technology
-          and community. I care deeply about accessibility, clean code, and
-          building tools that improve everyday lives.
+          Alongside academics and projects, I’ve also taken part in hackathons, university tech events, and collaborative problem-solving with teams. I'm currently seeking a 6-month internship in Data Science, ML, AI, or Data Engineering where I can apply my skills and continue learning in real-world environments.
         </p>
       </div>
     </section>

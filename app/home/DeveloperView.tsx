@@ -26,7 +26,7 @@ const DeveloperView = () => {
         <div className="flex flex-col items-center md:items-start text-center md:text-left gap-4 md:px-10">
           <div className="flex flex-row gap-2 items-center">
             <h1 className="font-extrabold text-xl md:text-2xl">
-              Tomiwa Jinadu
+              Adishree
             </h1>
             <button
               title="Pronounciation"
@@ -73,7 +73,7 @@ const DeveloperView = () => {
               Software Developer
             </p>
             <p className="text-xl font-bold text-indigo-500">
-              📍Atlanta, Georgia
+              📍Bengaluru, India
             </p>
             <div className="text-base md:text-lg font-normal">
               I build responsive products <br />
@@ -110,7 +110,7 @@ const DeveloperView = () => {
             </PinContainer>
           </div>
           <div className="flex -ml-45 -mt-40 md:-ml-30 md:mt-0 opacity-0 animate-fade-in-delay-2">
-            <PinContainer title="/GitHub" href="https://github.com/Tomiwajin">
+            <PinContainer title="/GitHub" href="https://github.com/Adishree10">
               <div className="tracking-tight w-[16rem] h-[24rem]">
                 <Image
                   src="/Posts/Git-hub.jpg"
@@ -202,7 +202,7 @@ const DeveloperView = () => {
             </div>
           </Link>
           <Link
-            href="https://github.com/Tomiwajin"
+            href="https://github.com/Adishree10"
             className="w-1/2 h-60 border relative overflow-hidden active:scale-105 opacity-0 animate-fade-in-delay-2"
             target="blank_"
           >

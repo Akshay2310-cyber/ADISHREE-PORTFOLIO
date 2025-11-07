@@ -27,7 +27,7 @@ export default function Initial() {
               transition={{ duration: 1.5 }}
               exit={{ opacity: 0 }}
             >
-              T
+              ADII
             </motion.span>
             <motion.span
               initial={{ x: 0 }}
@@ -35,7 +35,7 @@ export default function Initial() {
               transition={{ duration: 1.5 }}
               exit={{ opacity: 0 }}
             >
-              J
+              SHREE
             </motion.span>
           </div>
         </motion.div>

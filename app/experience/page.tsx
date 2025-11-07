@@ -83,7 +83,7 @@ const page = () => {
             📱 Built cross-platform Flutter app for elderly meal requests with
             Firebase Auth and REST API integration.
             <LinkPreview
-              url="https://github.com/Tomiwajin/Elderly_Helper_App.git"
+              url="https://github.com/Adishree10/Elderly_Helper_App.git"
               className="font-bold ml-1"
             >
               View Project
@@ -125,7 +125,7 @@ const page = () => {
             California housing prices. Created responsive web interface for
             model deployment and data visualization with Matplotlib.
             <LinkPreview
-              url="https://github.com/Tomiwajin/House-price-prediction.git"
+              url="https://github.com/Adishree10/House-price-prediction.git"
               className="font-bold ml-1"
             >
               View Project

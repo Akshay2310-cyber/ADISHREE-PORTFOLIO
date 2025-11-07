@@ -24,7 +24,7 @@ const projects = [
     image: "/projects/project6.png",
     tags: ["React", "Next.js", "Tailwind CSS", "Google API"],
     demoUrl: "https://job-app-tracker-gmail.vercel.app/",
-    githubUrl: "https://github.com/Tomiwajin/job-app-tracker-gmail.git",
+    githubUrl: "https://github.com/Adishree10/job-app-tracker-gmail.git",
     category: "webDev",
   },
   {
@@ -35,7 +35,7 @@ const projects = [
     image: "/projects/project5.png",
     tags: ["React", "Vite", "Tailwind CSS"],
     demoUrl: "https://tomiwa-jinadu-portfolio-v1.vercel.app",
-    githubUrl: "https://github.com/Tomiwajin/TomiwaJinadu-Portfolio-V1.git",
+    githubUrl: "https://github.com/Adishree10/TomiwaJinadu-Portfolio-V1.git",
     category: "webDev",
   },
   {
@@ -45,7 +45,7 @@ const projects = [
     image: "/projects/project3.png",
     tags: ["Java", "JavaFX", "Maven"],
     demoUrl: "https://task-manager-nr9n.onrender.com",
-    githubUrl: "https://github.com/Tomiwajin/Task-Manager.git",
+    githubUrl: "https://github.com/Adishree10/Task-Manager.git",
     category: "JavaDev",
   },
   {
@@ -66,7 +66,7 @@ const projects = [
     image: "/projects/project2.png",
     tags: ["Python", "Machine Learning", "Render"],
     demoUrl: "https://house-price-prediction-gzd4.onrender.com",
-    githubUrl: "https://github.com/Tomiwajin/House-price-prediction",
+    githubUrl: "https://github.com/Adishree10/House-price-prediction",
     category: "ML",
   },
   {
@@ -76,7 +76,7 @@ const projects = [
     image: "/projects/project4.png",
     tags: ["HTML", "CSS", "JavaScript"],
     demoUrl: "https://tomiwajin.github.io/OluwatomiwaJinadu_Project/",
-    githubUrl: "https://github.com/Tomiwajin/OluwatomiwaJinadu_Project.git",
+    githubUrl: "https://github.com/Adishree10/OluwatomiwaJinadu_Project.git",
     category: "webDev",
   },
 ];
