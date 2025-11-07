@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌟 Adishree's Portfolio 🚀  
-**Live Site:** [tomiwajinadu-portfolio-v2.vercel.app](https://tomiwajinadu-portfolio-v2.vercel.app)
+**Live Site:** https://adishree-portfolio-beta.vercel.app/
 
 A second iteration of my personal site — built with [Next.js](https://nextjs.org), styled using [Tailwind CSS](https://tailwindcss.com), and animated with [Framer Motion](https://www.framer.com/motion/).  
 Inspired by clean, performant developer portfolios and designed to reflect both personality and professionalism.
